@@ -1,0 +1,13 @@
+body {
+  background: #f1f1f1;
+  font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;
+  color: rgba(0, 0, 0, 0.8); }
+  body #books {
+    display: flex; }
+    body #books .book {
+      border: 5px solid gray;
+      border-radius: 5px;
+      margin: .5em;
+      padding: .2em; }
+
+/*# sourceMappingURL=style.css.map */
